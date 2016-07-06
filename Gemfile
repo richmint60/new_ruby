@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 #use bootstrap library for styles
 gem 'bootstrap-sass', '3.3.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'font-awesome-sass', '4.2.0'
+# Use font Awsome library for icons
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
